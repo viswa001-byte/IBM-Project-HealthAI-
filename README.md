@@ -1,3 +1,3 @@
 # IBM-Project-HealthAI-
 Install the required package 
-then run it through our colab
+then run it through your google colab
